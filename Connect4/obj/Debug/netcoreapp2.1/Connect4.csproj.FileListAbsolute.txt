@@ -1,0 +1,11 @@
+S:\Users\samy9\Desktop\Connect4\Connect4\bin\Debug\netcoreapp2.1\Connect4.deps.json
+S:\Users\samy9\Desktop\Connect4\Connect4\bin\Debug\netcoreapp2.1\Connect4.runtimeconfig.json
+S:\Users\samy9\Desktop\Connect4\Connect4\bin\Debug\netcoreapp2.1\Connect4.runtimeconfig.dev.json
+S:\Users\samy9\Desktop\Connect4\Connect4\bin\Debug\netcoreapp2.1\Connect4.dll
+S:\Users\samy9\Desktop\Connect4\Connect4\bin\Debug\netcoreapp2.1\Connect4.pdb
+S:\Users\samy9\Desktop\Connect4\Connect4\obj\Debug\netcoreapp2.1\Connect4.csprojAssemblyReference.cache
+S:\Users\samy9\Desktop\Connect4\Connect4\obj\Debug\netcoreapp2.1\Connect4.csproj.CoreCompileInputs.cache
+S:\Users\samy9\Desktop\Connect4\Connect4\obj\Debug\netcoreapp2.1\Connect4.AssemblyInfoInputs.cache
+S:\Users\samy9\Desktop\Connect4\Connect4\obj\Debug\netcoreapp2.1\Connect4.AssemblyInfo.cs
+S:\Users\samy9\Desktop\Connect4\Connect4\obj\Debug\netcoreapp2.1\Connect4.dll
+S:\Users\samy9\Desktop\Connect4\Connect4\obj\Debug\netcoreapp2.1\Connect4.pdb
